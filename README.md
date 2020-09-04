@@ -1,5 +1,6 @@
 # Lab-1 Git Repository Seed - Caleb Otchi
 
+Edited by Caleb Otchi (caleb.otchi@ashesi.edu.gh)
 This file is the template for the first lab in Ashesi Web Development 2020.
 
 ## Contents
