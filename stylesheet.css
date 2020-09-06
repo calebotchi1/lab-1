@@ -38,7 +38,7 @@ p {
 .skills {
     text-align: left;
     font-family: 'Poppins', sans-serif;
-    font-size: medium;
+    font-size: large;
     padding: 14px 14px;
 }
 
@@ -52,17 +52,22 @@ p {
 .project {
     text-align: left;
     font-family: 'Poppins', sans-serif;
+    font-size: large;
+    padding: 10px;
+}
 }
 
 .interests {
     text-align: left;
     font-family: 'Poppins', sans-serif;
+    font-size: large;
+    padding: 10px;
+}
 }
 
 .role{
     text-align: left;
     font-family: 'Poppins', sans-serif;
-    
 }
 
 .details {
