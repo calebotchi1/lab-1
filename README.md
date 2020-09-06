@@ -3,6 +3,7 @@
 # Caleb Otchi
 Edited by Caleb Otchi (caleb.otchi@ashesi.edu.gh)
 I have edited this file.
+link to my site: https://calebotchi1.github.io/lab-1/index.html
 This file is the template for the first lab in Ashesi Web Development 2020.
 
 ## Contents
